@@ -1,3 +1,6 @@
+flexbox one dimensional 
+grid box two or more dimensional 
+
 fixes 
 needed fixes on frontend ui 
 added issue 
